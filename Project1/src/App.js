@@ -4,10 +4,10 @@ import NewExpense from "./components/NewExpense/NewExpense";
 import Expenses from "./components/Expenses/Expenses";
 
 const myExpenses = [
-  { title: "Car Insuranse", amount: 3000.33, date: new Date(2023, 1, 1) },
-  { title: "Car Insuranse2", amount: 31000.33, date: new Date(2022, 11, 22) },
-  { title: "Car Insurans3", amount: 30.33, date: new Date(2022, 10, 22) },
-  { title: "Car Insurans4", amount: 12.3, date: new Date(2021, 5, 2) }
+  { id:'a1', title: "Car Insuranse", amount: 3000.33, date: new Date(2023, 1, 1) },
+  { id:'a2', title: "Car Insuranse2", amount: 31000.33, date: new Date(2022, 11, 22) },
+  { id:'a3', title: "Car Insurans3", amount: 30.33, date: new Date(2022, 10, 22) },
+  { id:'a4', title: "Car Insurans4", amount: 12.3, date: new Date(2021, 5, 2) }
 ];
 
 
