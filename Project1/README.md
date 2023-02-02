@@ -5,6 +5,7 @@
               
 - Overall, the use of the React framework, along with CSS and JSX, provides a solid foundation for your expense management project. By leveraging the latest in web development technologies, the application is poised to provide an exceptional user experience and streamline the process of managing expenses.
             
+![expenses](https://user-images.githubusercontent.com/96373640/216302064-c6c82b46-2c8f-49a9-9ecf-a8b0c0f4643d.png)
 
 
 ## Available Scripts
