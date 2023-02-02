@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# React App
+- My expense management project utilizes the React framework, along with CSS and JSX, to provide a robust and dynamic solution for tracking expenses.
+              
+- React's component-based architecture makes it easy to create a modular and scalable application, while the use of JSX allows for seamless integration of HTML and JavaScript code. The application's user interface has been styled using CSS, ensuring a consistent and visually appealing experience for the end user.
+              
+- Overall, the use of the React framework, along with CSS and JSX, provides a solid foundation for your expense management project. By leveraging the latest in web development technologies, the application is poised to provide an exceptional user experience and streamline the process of managing expenses.
+            
+![expenses](https://user-images.githubusercontent.com/96373640/216302064-c6c82b46-2c8f-49a9-9ecf-a8b0c0f4643d.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -39,32 +45,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
