@@ -1,6 +1,11 @@
 # Getting Started with Create React App
+- My expense management project utilizes the React framework, along with CSS and JSX, to provide a robust and dynamic solution for tracking expenses.
+              
+- React's component-based architecture makes it easy to create a modular and scalable application, while the use of JSX allows for seamless integration of HTML and JavaScript code. The application's user interface has been styled using CSS, ensuring a consistent and visually appealing experience for the end user.
+              
+- Overall, the use of the React framework, along with CSS and JSX, provides a solid foundation for your expense management project. By leveraging the latest in web development technologies, the application is poised to provide an exceptional user experience and streamline the process of managing expenses.
+            
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
